@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akashkumar9452
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML, CSS, JS. React
+- 👀 I’m interested in Backend
 
 
 <!---
